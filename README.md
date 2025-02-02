@@ -1,6 +1,3 @@
-# Portfolio-Data-Analyst
-"Portfolio of data analysis projects using Python, SQL, Tableau and Power BI. Specialized in process optimization in the oil and gas industry"
-
 # Data Analysis Portfolio
 
 Hello! I'm Ray Acevedo Hernandez, a data analyst with experience in the oil and gas industry and certified by Google Data Analytics. This repository contains projects I have completed to demonstrate my skills in data analysis, visualization, and data-driven decision-making.
